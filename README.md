@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MrCoder-143
-- 👀 I’m interested in webdevelopment and software development
-- 🌱 I’m currently learning webdevelopment (css ,javascript , react node)
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development (css ,javascript , react node)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me i have no idea about github but when i was learning  javasript on  youtube then some youtuber suggested me for solving that problem whose given on github, then i known about github.🥰
-- 😄 Pronouns: ...
+- 📫 How to reach me --- i have no idea about github but when i was learning  javasript on  youtube then some youtuber suggested me for solving that problem whose given on github, then i known about github.🥰
+- 😄 Pronouns: ...Mr. Coder
 - ⚡ Fun fact: ... make some game or web 
 
 <!---
